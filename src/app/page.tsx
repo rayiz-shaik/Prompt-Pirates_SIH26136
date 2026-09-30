@@ -21,7 +21,7 @@ export default function Landing() {
   return (
     <div>
       <header className="bg-gov text-white"><div className="mx-auto flex max-w-6xl items-center justify-between px-4 py-3">
-        <div><p className="font-semibold">Maharashtra State Innovation Society</p><p className="text-xs text-slate-300">Dept. of Skills, Employment, Entrepreneurship and Innovation</p></div>
+        <div><p className="font-semibold">Pilot-driven Regulatory Outcome & Milestone Procurement Tracker (PROMPT)</p><p className="text-xs text-slate-300">Maharashtra State Innovation Society (MSInS)</p></div>
         <nav className="flex gap-3 text-sm"><Link href="/login" className="rounded px-3 py-1.5 hover:bg-white/10">Sign in</Link><Link href="/register" className="rounded bg-white px-3 py-1.5 font-medium text-gov">Register</Link></nav></div></header>
 
       <section className="border-b bg-white"><div className="mx-auto grid max-w-6xl gap-8 px-4 py-14 md:grid-cols-5">
